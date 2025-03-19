@@ -2,18 +2,18 @@
 <h2 align="center">Увлеченный фронтенд-разработчик из России</h2>
 <p align="center">
 - 🌱 Я сейчас изучаю **C++ и C# в университете**-
-</p>
-<p align="left">
+
 Статы:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeetleEve&theme=vision-friendly-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeetleEve&layout=compact&theme=vision-friendly-dark)
 ![Profile views](https://komarev.com/ghpvc/?username=BeetleEve)
-</p>
+
 📫 Как со мной связаться
-<p align="left">
+
   [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/beetleeve)
-</p>
 **- ⚡ Забавный факт **Я смог сдать экзамен по информатике**<
+</p>
+
 
 
 
