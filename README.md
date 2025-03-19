@@ -2,7 +2,7 @@
 <h3 align="center">Увлеченный фронтенд-разработчик из России</h3>
 
 - 🌱 Я сейчас изучаю **C++ и C# в университете**-
-
+<p align="center">
 ===Статы===
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeetleEve&theme=vision-friendly-dark)
