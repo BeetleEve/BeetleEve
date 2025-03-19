@@ -1,20 +1,20 @@
 <h1 align="center">Привет 👋, я Владимир</h1>
 <h2 align="center">Увлеченный фронтенд-разработчик из России</h2>
 <h3 align="center">- 🌱 Я сейчас изучаю **C++ и C# в университете**-</h3>
-<p align="center">📈 Статы 📈
+<p align="left">📈 Статы 📈
   
-<a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorsergeevichisit&theme=vision-friendly-dark)</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorsergeevichisit&theme=vision-friendly-dark)
 
-<a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeetleEve&layout=compact&theme=vision-friendly-dark)</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeetleEve&layout=compact&theme=vision-friendly-dark)
 
-<a>![Profile views](https://komarev.com/ghpvc/?username=BeetleEve)</a>
-
+![Profile views](https://komarev.com/ghpvc/?username=BeetleEve)
+<p align="left">
 📫 Как со мной связаться
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/beetleeve)
   
-**- ⚡ Забавный факт **Я смог сдать экзамен по информатике**
+<a>[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/beetleeve)</a>
 </p>
+**- ⚡ Забавный факт **Я смог сдать экзамен по информатике**
+
 
 
 
