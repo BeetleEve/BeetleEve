@@ -2,6 +2,13 @@
 <h3 align="center">Увлеченный фронтенд-разработчик из России</h3>
 
 - 🌱 Я сейчас изучаю **C++ и C# в университете**-
+===Статы===
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeetleEve&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeetleEve&layout=compact&theme=vision-friendly-dark)
+
+![Profile views](https://komarev.com/ghpvc/?username=BeetleEve)
 
 📫 Как со мной связаться golobokovv708@gmail.com
 
