@@ -1,10 +1,10 @@
 <h1 align="center">Привет 👋, я Владимир</h1>
 <h3 align="center">Увлеченный фронтенд-разработчик из России</h3>
-
+<p align="center">
 - 🌱 Я сейчас изучаю **C++ и C# в университете**-
 <p align="center">
 ===Статы===
-
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeetleEve&theme=vision-friendly-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeetleEve&layout=compact&theme=vision-friendly-dark)
