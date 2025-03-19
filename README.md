@@ -14,7 +14,7 @@
 <a>[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/beetleeve)</a>
 </p>
 ** - ⚡ Забавный факт - Я смог сдать экзамен по информатике**
-
+** - Написал несколько проектов на Python в соло и в тиме с <a href="https://github.com/JustWwords">JustWwords</a>
 
 
 
