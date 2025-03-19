@@ -3,7 +3,7 @@
 <h3 align="center">- 🌱 Я сейчас изучаю **C++ и C# в университете**-</h3>
 <p align="left">📈 Статы 📈
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorsergeevichisit&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeetleEve&theme=vision-friendly-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeetleEve&layout=compact&theme=vision-friendly-dark)
 
