@@ -11,7 +11,7 @@
 <p align="left">
 📫 Как со мной связаться
   
-<a>[![Telegram]https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram](https://t.me/beetleeve)</a>
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/BeetleEve)
 </p>
  - ⚡ Забавный факт - Я смог сдать экзамен по информатике
 
