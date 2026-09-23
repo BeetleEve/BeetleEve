@@ -1,21 +1,37 @@
-<h1 align="center">Привет 👋, я Владимир</h1>
-<h2 align="center">Увлеченный разработчик</h2>
-<h3 align="center">- 🌱 пишу на чём попало</h3>
-<p align="left">📈 Статы 📈
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeetleEve&theme=vision-friendly-dark)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeetleEve&layout=compact&theme=vision-friendly-dark)
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=190&text=%3C%2F%3E%20DEVELOPMENT&fontColor=a78bfa&fontSize=38&fontAlignY=43&desc=PYTHON%20%2F%20WEB%20%2F%20DATABASES&descSize=13&descAlignY=65&descColor=8b949e"
+    alt="Development — Python / Web / Databases"
+  />
 
-![Profile views](https://komarev.com/ghpvc/?username=BeetleEve)
-<p align="left">
-</p>
- - ⚡ Забавный факт - Я смог сдать экзамен по информатике
+  <br>
+  <br>
 
-** - Написал несколько проектов на Python в соло и в тиме с <a href="https://github.com/JustWwords">JustWwords</a>
+  <samp>────── TECH STACK ──────</samp>
 
+  <br>
+  <br>
 
+  <img
+    src="https://skillicons.dev/icons?i=python,django,mysql&theme=dark"
+    height="48"
+    alt="Python, Django, MySQL"
+  />
 
+  <br>
+  <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </а> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </а> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </а> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </а> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </а> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </а> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </а> </чел>
+  <img
+    src="https://skillicons.dev/icons?i=cpp,cs,html,css&theme=dark"
+    height="40"
+    alt="C++, C#, HTML, CSS"
+  />
+
+  <br>
+  <br>
+
+  <samp>────────────────────────</samp>
+
+</div>
