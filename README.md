@@ -1,6 +1,6 @@
 <h1 align="center">Привет 👋, я Владимир</h1>
-<h2 align="center">Увлеченный фронтенд-разработчик из России</h2>
-<h3 align="center">- 🌱 Я сейчас изучаю C++ и C# в университете-</h3>
+<h2 align="center">Увлеченный разработчик</h2>
+<h3 align="center">- 🌱 пишу на чём попало</h3>
 <p align="left">📈 Статы 📈
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeetleEve&theme=vision-friendly-dark)
@@ -9,9 +9,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=BeetleEve)
 <p align="left">
-📫 Как со мной связаться
-  
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/BeetleEve)
 </p>
  - ⚡ Забавный факт - Я смог сдать экзамен по информатике
 
